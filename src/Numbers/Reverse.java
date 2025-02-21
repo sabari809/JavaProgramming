@@ -1,4 +1,4 @@
-package Numberswapping;
+package Numbers;
 
 import java.util.Scanner;
 
